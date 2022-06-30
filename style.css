@@ -1,0 +1,158 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+
+
+}
+
+
+
+
+.top {
+    margin-bottom: 60px;
+
+
+
+}
+
+.box1 {
+    width: 500px;
+    overflow: hidden;
+    margin-left: 90px;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(235, 116, 19);
+
+}
+
+h2 {
+    font-size: 35px;
+    margin-bottom: -20px;
+
+}
+
+h6 {
+    font-size: 18px;
+    margin-bottom: -10px;
+
+    color: rgb(29, 118, 235);
+}
+
+p {
+    text-align: justify;
+    width: 385px;
+    color: rgb(0, 0, 0);
+}
+
+
+a {
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+
+}
+
+button {
+    background: blue;
+    border: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: tomato;
+    transition: .3s;
+}
+
+img {
+    width: 650px;
+    float: left;
+    display: inline;
+    margin-top: 15px;
+}
+
+.box2 {
+    overflow: hidden;
+    float: right;
+    display: inline;
+    margin-top: -351px;
+    margin-right: 178px;
+}
+
+
+
+
+
+
+
+
+.mid {
+    margin-bottom: 50px;
+}
+
+img.img2 {
+    margin-left: -65px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.exp1 {
+    width: 385px;
+    margin-left: 100px;
+    border: 1px solid rgb(190, 186, 186);
+    padding: 20px;
+    margin-right: 0px;
+    box-shadow: 0px 5px 26px 0px;
+    border-radius: 4px;
+    float: left;
+    overflow: hidden;
+    margin-bottom: 70px;
+    overflow: hidden;
+
+}
+
+.exp1 p {
+    text-align: justify;
+    margin-top: -20px;
+
+}
+
+.exp1 h2 {
+    color: blue;
+    font-weight: 800;
+}
+
+.exp1 h4 {
+    color: green;
+    font-size: 20px;
+
+}
+
+.container {
+    overflow: hidden;
+}
+
+.vs {
+    margin: 20px;
+}
+
+.vs {
+    margin: -1px;
+    float: left;
+    margin-left: 94px;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.vs h1 {
+    font-size: 85px;
+}
